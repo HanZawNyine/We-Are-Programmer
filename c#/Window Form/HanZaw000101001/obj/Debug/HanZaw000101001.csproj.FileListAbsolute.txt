@@ -1,0 +1,10 @@
+D:\hypergeneration\c#\Window Form\HanZaw000101001\bin\Debug\HanZaw000101001.exe.config
+D:\hypergeneration\c#\Window Form\HanZaw000101001\bin\Debug\HanZaw000101001.exe
+D:\hypergeneration\c#\Window Form\HanZaw000101001\bin\Debug\HanZaw000101001.pdb
+D:\hypergeneration\c#\Window Form\HanZaw000101001\obj\Debug\HanZaw000101001.csprojAssemblyReference.cache
+D:\hypergeneration\c#\Window Form\HanZaw000101001\obj\Debug\HanZaw000101001.frmArea.resources
+D:\hypergeneration\c#\Window Form\HanZaw000101001\obj\Debug\HanZaw000101001.Properties.Resources.resources
+D:\hypergeneration\c#\Window Form\HanZaw000101001\obj\Debug\HanZaw000101001.csproj.GenerateResource.cache
+D:\hypergeneration\c#\Window Form\HanZaw000101001\obj\Debug\HanZaw000101001.csproj.CoreCompileInputs.cache
+D:\hypergeneration\c#\Window Form\HanZaw000101001\obj\Debug\HanZaw000101001.exe
+D:\hypergeneration\c#\Window Form\HanZaw000101001\obj\Debug\HanZaw000101001.pdb
